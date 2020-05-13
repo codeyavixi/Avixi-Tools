@@ -16,7 +16,7 @@
 If you are having troubles getting the Avixi Ribbon to show up, try following these steps:
 - Close Revit
 - Open file path [C:\ProgramData\Autodesk\Revit\Macros\2020](C:\ProgramData\Autodesk\Revit\Macros\2020)
-- ![Delete the folder named **"Revit"**](img/RevitFolderDelete.png)
+- Delete the folder named **"Revit"**![Delete the folder named **"Revit"**](img/RevitFolderDelete.png)
 - Open Revit, click on the Manage tab, click on Macro Manager
 - Click Create Module
 - Give it a name and hit "OK"
