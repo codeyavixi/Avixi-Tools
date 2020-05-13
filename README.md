@@ -19,7 +19,7 @@ If you are having troubles getting the Avixi Ribbon to show up, try following th
 - Delete the folder named **"Revit"**![Delete the folder named **"Revit"**](img/RevitFolderDelete.png)
 - Open Revit, click on the Manage tab, click on Macro Manager ![Manage tab](img/ManageMacro.png)
 - Click Create Module
-- Give it a name and hit "OK"![Confirm Module](img/ConfirmModule.png)
+- Give it a name and hit "OK" \n![Confirm Module](img/ConfirmModule.png)
 - Exit the window that pops up and exit Revit
 - Run the given .exe files and reopen Revit
 
