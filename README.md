@@ -15,7 +15,7 @@
 
 If you are having troubles getting the Avixi Ribbon to show up, try following these steps:
 - Close Revit
-- Open file path [test](ProgramData\Autodesk\Revit\Macros\2020)
+- Open file path [test](C:/ProgramData/Autodesk/Revit/Macros/2020)
 - Delete the folder named **"Revit"**
 - Open Revit, click on the Manage tab, click on Macros
 - 
