@@ -2,7 +2,7 @@
 
 ![Platforms](https://img.shields.io/badge/platform-Windows-lightgray.svg)
 
-[![Autodesk Revit 2020](https://img.shields.io/badge/BIM%20360-v1-green.svg)
+![Autodesk Revit 2020](https://img.shields.io/badge/BIM%20360-v1-green.svg)
 
 
 ### Website
