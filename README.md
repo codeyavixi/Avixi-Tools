@@ -1,6 +1,6 @@
 # Avixi Revit Tools
 
-![Platforms](https://img.shields.io/badge/Platform-Windows-lightgray.svg) </br>
+![Platforms](https://img.shields.io/badge/Platform-Windows-lightgray.svg) <br/>
 ![Autodesk Revit 2019](https://img.shields.io/badge/Autodesk_Revit-2019-blue.svg) ![Autodesk Revit 2020](https://img.shields.io/badge/Autodesk_Revit-2020-blue.svg) ![Autodesk Revit Macros](https://img.shields.io/badge/Autodesk_Revit-Macros-lightgreen.svg)
 
 
