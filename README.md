@@ -29,4 +29,4 @@ If you are having troubles getting the Avixi Ribbon to show up, try following th
 ## Written by
 
 Codey Van Ourkerk & Joey Smith <br />
-<a href="http://avixi.com/">Avixi</a> <br />
+<a href="http://avixi.com/">Avixi Inc.</a> <br />
